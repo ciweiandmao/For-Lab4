@@ -18,7 +18,7 @@
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
-            <version>4.13.1</version> <!-- 替换成最新的版本 -->
+            <version>5.10.1</version> <!-- 替换成最新的版本 -->
             <scope>test</scope>
         </dependency>
     </dependencies>
