@@ -14,7 +14,7 @@ public class Solution19Test {
 
     @Test
     public void testStandardGameProgress() {
-        int[][] board = {{0, 0, 0}, {0, 0, 1}, {1, 1, 1}, {0, 0, 0}};
+        int[][] board = {{0, 1, 0}, {0, 0, 1}, {1, 1, 1}, {0, 0, 0}};
         int[][] expected = {{0, 0, 0}, {1, 0, 1}, {0, 1, 1}, {0, 1, 0}};
         Solution19.gameOfLife(board);
         assertTrue(isEqual(board, expected));
