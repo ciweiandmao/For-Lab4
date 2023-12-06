@@ -21,6 +21,11 @@
             <version>5.10.1</version> <!-- 替换成最新的版本 -->
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.10.1</version>
+        </dependency>
     </dependencies>
 
 
