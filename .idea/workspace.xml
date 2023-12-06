@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="defc29b4-47f4-4447-a47b-fb992ee66130" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.githubs/workflow/Work.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.githubs/workflow/Work.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.githubs/workflow/Work.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701860840083</updated>
       <workItem from="1701860841682" duration="441000" />
-      <workItem from="1701862622728" duration="1620000" />
+      <workItem from="1701862622728" duration="2375000" />
     </task>
     <servers />
   </component>
