@@ -39,7 +39,7 @@ class Solution19  {
         for (int row = 0; row < rows; row++) {
             for (int col = 0; col < cols; col++) {
 
-                // 对于每一个细胞统计其八个相邻位置里的活细胞数量
+                // 对于每一个细胞统计其八个相邻位置里的活细胞数量，hello
                 int liveNeighbors = 0;
 
                 for (int i = 0; i < 3; i++) {
