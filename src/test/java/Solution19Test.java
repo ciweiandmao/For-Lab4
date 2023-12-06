@@ -2,7 +2,7 @@ import java.util.Arrays;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class L2023140022_19_Test {
+public class Solution19Test {
 
     @Test
     public void testSingleElementBoard() {
