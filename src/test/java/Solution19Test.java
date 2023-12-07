@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class Solution19Test {
 
+    //hello!
     @Test
     public void testSingleElementBoard() {
         int[][] board = {{1}};
